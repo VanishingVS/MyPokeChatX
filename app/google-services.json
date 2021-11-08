@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285360933282",
+    "project_id": "mypokechat",
+    "storage_bucket": "mypokechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285360933282:android:579b095053eb0a6efdcafb",
+        "android_client_info": {
+          "package_name": "com.vanishing.mypokechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285360933282-00k60sfiteule0as0duoo2mnn9a618u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAF0WoW5GMFbDg_W96S3Dq6IV0bbci8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285360933282-00k60sfiteule0as0duoo2mnn9a618u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
